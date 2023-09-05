@@ -51,8 +51,8 @@
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=benabbouosama&icon=5&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=benabbouosama&label=Profile%20Views&pretty=false" />
+    </a>
 </p>
 
 
