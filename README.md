@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m interested in working with data engineering tools<br>👯 I’m currently learning new tech stacks and working over my skills.<br>🌱 I’m looking to collaborate on projects of AI, Python and Java or any data engineering related project.<br>💬 Ask me about ML , DBs , Python<br>⚡ Fun fact : Data engineers are always ready to build new “pipelines” . <br><br>
+🔭 I’m interested in working with data engineering tools.<br>👯 I’m currently learning new tech stacks and working over my skills.<br>🌱 I’m looking to collaborate on projects of AI, Python and Java or any data engineering related project.<br>💬 Ask me about ML , DBs , Python<br>⚡ Fun fact : Data engineers are always ready to build new “pipelines” . <br><br>
 
 
 ## 🌐 Socials:
