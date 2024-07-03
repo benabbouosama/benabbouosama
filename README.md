@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m interested in working with data engineering tools.<br>👯 I’m currently learning new tech stacks and working over my skills.<br>💬 Ask me about LLMs , NLP ,Data engineering <br>⚡ Fun fact : Data engineers are always ready to build new “pipelines” . <br><br>
+💬 Ask me about LLMs , NLP ,Data engineering <br>⚡ Fun fact : Data engineers are always ready to build new “pipelines” . <br><br>
 
 
 ## 🌐 Socials:
