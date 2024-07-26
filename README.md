@@ -34,10 +34,6 @@
   </tr> 
 </table>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benabbouosama&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
