@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-💬 Ask me about LLMs , NLP ,Data engineering <br>⚡ Fun fact : Data engineers are always ready to build new “pipelines” . <br><br>
+💬 Ask me about LLMs , NLP ,Data engineering <br>
 
 
 ## 🌐 Socials:
