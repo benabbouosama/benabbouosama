@@ -18,23 +18,6 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benabbouosama&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benabbouosama&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benabbouosama&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-
-
-<br>
-<table align="center">
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benabbouosama&theme=date_night"  display=block width=100% height=auto  alt="1" ></td>
-  </tr> 
-</table>
-
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
