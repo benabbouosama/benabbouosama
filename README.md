@@ -6,11 +6,6 @@
 </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-# 💫 About Me:
-💬 Ask me about LLMs , NLP ,Data engineering <br>
-
-
 ## 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/oussama-benabbou-3a54531b9">
