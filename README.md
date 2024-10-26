@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=000000&width=380&height=45&lines=AI+Enthusiast;Always+Learning+New+Things;Contributing;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 <p align="center">
